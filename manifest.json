@@ -6,7 +6,7 @@
     // 插件的版本
     "version": "1.0.0",
     // 插件描述
-    "description": "Url转二维码",
+    "description": "Url2Qrcode",
     // 图标，一般偷懒全部用一个尺寸的也没问题
     "icons":
     {
@@ -19,7 +19,7 @@
     {
         "default_icon": "img/icon.png",
         // 图标悬停时的标题，可选
-        "default_title": "Url转二维码",
+        "default_title": "Url2Qrcode",
         // 点击出现弹出
         "default_popup": "html/start.html"
     },
